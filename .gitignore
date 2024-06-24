@@ -2,7 +2,7 @@
 **/$tf1/
 **/$tf2/
 **/$tf3/
-; *.dll
+*.dll
 *.pdb
 *.vsidx
 
